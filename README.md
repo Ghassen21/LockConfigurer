@@ -1,7 +1,7 @@
 # LockConfigurer
 Mini App
 
-![AppIcon](https://github.com/Ghassen21/LockConfigurer/assets/72602715/00d829af-8e21-49ac-8e67-f5e8a899152a)
+<img width="126" alt="AppIconCap" src="https://github.com/Ghassen21/LockConfigurer/assets/72602715/223c9b1e-3354-437c-9869-81796f469dd3">
 
 LockConfigurer is a mini mobile app simulation that enables a busy service technician to efficiently configure parameters related to the installation of locks on a door. It allows for editing various parameters, such as lock voltage value and estimated release time value, providing different options as examples. 
 
