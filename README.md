@@ -12,3 +12,7 @@ Views directory, which contains all the views such as LockParametersConfigView, 
 Model directory, which contains the LockConfigurationModel.
 ViewModel directory, which contains the LockConfigurationViewModel responsible for updating both the model and the view.
 NetworkApiService directory, which contains LockConfigurationNetworkApiService responsible for making API calls to fetch data.
+
+# The implementation of this design pattern is based on several benefits.
+
+The implementation of this design pattern brings several benefits. Firstly, it keeps things organized by separating different parts of the app, making it easier to manage and understand. Secondly, it simplifies testing and reusability because each part can be tested individually and reused in different places. Lastly, it offers better scalability and flexibility, allowing the app to grow and adapt more smoothly to future changes.
