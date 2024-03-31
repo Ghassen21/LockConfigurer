@@ -20,4 +20,4 @@ It keeps things organized by separating different parts of the app, making it ea
 
 # Installation mode
  
-Please clone the repository and then run and build it within Xcode.
+ Clone the repository and then run and build it within Xcode.
