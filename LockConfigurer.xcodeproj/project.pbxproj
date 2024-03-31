@@ -10,6 +10,8 @@
 		9207F9742BB72FD300F41735 /* LockConfigurationModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9207F9732BB72FD300F41735 /* LockConfigurationModel.swift */; };
 		9207F9782BB730D100F41735 /* LockConfigurerApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9207F9772BB730D100F41735 /* LockConfigurerApp.swift */; };
 		9207F97A2BB7313000F41735 /* LockParametersConfigView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9207F9792BB7313000F41735 /* LockParametersConfigView.swift */; };
+		922EB7372BB8CD5C007889C8 /* VoltageParameterDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922EB7362BB8CD5C007889C8 /* VoltageParameterDetailView.swift */; };
+		922EB7392BB9B217007889C8 /* LockReleaseTimeDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 922EB7382BB9B217007889C8 /* LockReleaseTimeDetailView.swift */; };
 		92552D702BB7299500CBDB22 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92552D6F2BB7299500CBDB22 /* Assets.xcassets */; };
 		92552D732BB7299500CBDB22 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 92552D722BB7299500CBDB22 /* Preview Assets.xcassets */; };
 		92552D7D2BB7299500CBDB22 /* LockConfigurerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 92552D7C2BB7299500CBDB22 /* LockConfigurerTests.swift */; };
@@ -40,6 +42,8 @@
 		9207F9732BB72FD300F41735 /* LockConfigurationModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LockConfigurationModel.swift; sourceTree = "<group>"; };
 		9207F9772BB730D100F41735 /* LockConfigurerApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LockConfigurerApp.swift; sourceTree = "<group>"; };
 		9207F9792BB7313000F41735 /* LockParametersConfigView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LockParametersConfigView.swift; sourceTree = "<group>"; };
+		922EB7362BB8CD5C007889C8 /* VoltageParameterDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoltageParameterDetailView.swift; sourceTree = "<group>"; };
+		922EB7382BB9B217007889C8 /* LockReleaseTimeDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LockReleaseTimeDetailView.swift; sourceTree = "<group>"; };
 		92552D682BB7299400CBDB22 /* LockConfigurer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LockConfigurer.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		92552D6F2BB7299500CBDB22 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		92552D722BB7299500CBDB22 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -156,6 +160,8 @@
 			isa = PBXGroup;
 			children = (
 				9207F9792BB7313000F41735 /* LockParametersConfigView.swift */,
+				922EB7362BB8CD5C007889C8 /* VoltageParameterDetailView.swift */,
+				922EB7382BB9B217007889C8 /* LockReleaseTimeDetailView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -298,7 +304,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				922EB7372BB8CD5C007889C8 /* VoltageParameterDetailView.swift in Sources */,
 				9207F9782BB730D100F41735 /* LockConfigurerApp.swift in Sources */,
+				922EB7392BB9B217007889C8 /* LockReleaseTimeDetailView.swift in Sources */,
 				9207F97A2BB7313000F41735 /* LockParametersConfigView.swift in Sources */,
 				9207F9742BB72FD300F41735 /* LockConfigurationModel.swift in Sources */,
 				92552DA02BB72B0D00CBDB22 /* LockConfigurationViewModel.swift in Sources */,
