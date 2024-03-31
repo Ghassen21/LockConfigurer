@@ -15,4 +15,4 @@ NetworkApiService directory, which contains LockConfigurationNetworkApiService r
 
 # The implementation of this design pattern is based on several benefits.
 
-The implementation of this design pattern brings several benefits. Firstly, it keeps things organized by separating different parts of the app, making it easier to manage and understand. Secondly, it simplifies testing and reusability because each part can be tested individually and reused in different places. Lastly, it offers better scalability and flexibility, allowing the app to grow and adapt more smoothly to future changes.
+It keeps things organized by separating different parts of the app, making it easier to manage and understand. Secondly, it simplifies testing and reusability because each part can be tested individually and reused in different places. Lastly, it offers better scalability and flexibility, allowing the app to grow and adapt more smoothly to future changes.
