@@ -17,3 +17,7 @@ NetworkApiService directory, which contains LockConfigurationNetworkApiService r
 # The implementation of this design pattern is based on several benefits.
 
 It keeps things organized by separating different parts of the app, making it easier to manage and understand. Secondly, it simplifies testing and reusability because each part can be tested individually and reused in different places. Lastly, it offers better scalability and flexibility, allowing the app to grow and adapt more smoothly to future changes.
+
+# Installation mode
+ 
+Please clone the repository and then run and build it within Xcode.
